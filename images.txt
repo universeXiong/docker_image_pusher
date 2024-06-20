@@ -12,3 +12,4 @@ gcr.io/zenika-hub/alpine-chrome:123
 ghcr.io/hoarder-app/hoarder-web:release
 getmeili/meilisearch:v1.6
 ghcr.io/hoarder-app/hoarder-workers:release
+saplabs/hanaexpress
