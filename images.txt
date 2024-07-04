@@ -14,3 +14,4 @@ getmeili/meilisearch:v1.6
 ghcr.io/hoarder-app/hoarder-workers:release
 saplabs/hanaexpress
 nginx
+xiaoyaliu/alist
